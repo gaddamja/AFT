@@ -1,0 +1,3 @@
+[submodule "terraform-aws-control_tower_account_Factory"]
+	path = terraform-aws-control_tower_account_Factory
+	url = https://github.com/gaddamja/AFT.git
